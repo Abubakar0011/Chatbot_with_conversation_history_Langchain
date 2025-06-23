@@ -35,7 +35,7 @@ pip install -r requirements.txt
 3. Run the notebook:
 
 ```bash
-jupyter notebook 1-chatbots.ipynb
+jupyter notebook ChatBot.ipynb
 ```
 
 ## Requirements
